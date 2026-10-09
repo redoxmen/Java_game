@@ -1,0 +1,4 @@
+# Build output (rebuilt via: javac -d out src\*.java)
+out/
+# Runtime-generated high score (created next to the JAR on first game over)
+highscore.txt
